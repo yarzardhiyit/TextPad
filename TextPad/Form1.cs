@@ -104,7 +104,7 @@ namespace TextPad
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("App: TextPad \nVersion: 1.0.0.0 \nDeveloped By: yarzardhiyit");
+            MessageBox.Show("App: TextPad \nVersion: 1.0.0.1 \nDeveloped By: yarzardhiyit");
         }
     }
 }
